@@ -20,5 +20,6 @@
     "fullTemplateTypeCheck": false,
     "strictInjectionParameters": true,
     "enableIvy": false
-  }
+  },
+  "license": "SEE LICENSE IN ./LICENSE.txt"
 }
