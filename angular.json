@@ -123,6 +123,5 @@
       }
     }
   },
-  "defaultProject": "smartHomeDemo",
-  "license": "SEE LICENSE IN ./LICENSE.txt",
+  "defaultProject": "smartHomeDemo"
 }
