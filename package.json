@@ -53,5 +53,5 @@
     "tslint": "~6.1.0",
     "typescript": "~3.8.3"
   },
-  "license": "SEE LICENSE IN ./LICENSE.txt",
+  "license": "SEE LICENSE IN ./LICENSE.txt"
 }
