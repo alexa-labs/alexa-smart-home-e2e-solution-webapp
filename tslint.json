@@ -144,6 +144,5 @@
   },
   "rulesDirectory": [
     "codelyzer"
-  ],
-  "license": "SEE LICENSE IN ./LICENSE.txt"
+  ]
 }
