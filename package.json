@@ -25,7 +25,7 @@
     "@fortawesome/angular-fontawesome": "^0.6.1",
     "@fortawesome/fontawesome-svg-core": "^1.2.29",
     "@fortawesome/free-solid-svg-icons": "^5.13.1",
-    "aws-amplify": "^3.0.18",
+    "aws-amplify": "^6.15.6",
     "aws-amplify-angular": "^5.0.18",
     "c": "^1.0.2",
     "rxjs": "~6.5.4",
